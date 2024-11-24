@@ -22,3 +22,4 @@ tqdm==4.66.5
 typing_extensions==4.12.2
 Werkzeug==3.0.4
 flask-cors==4.0.0
+flask-cors==4.0.0
